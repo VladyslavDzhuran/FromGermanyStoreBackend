@@ -6,4 +6,8 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\FromGermanyStoreDataAccessLibrary\FromGermanyStoreDataAccessLibrary.csproj" />
+  </ItemGroup>
+
 </Project>
